@@ -1,0 +1,8 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.11",
+        "setasign/fpdf": "^1.8",
+        "phpmailer/phpmailer": "^7.0",
+        "smalot/pdfparser": "^2.12"
+    }
+}
